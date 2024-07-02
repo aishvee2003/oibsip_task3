@@ -27,13 +27,3 @@ A Password Generator(GUI) made in python (3.11)
 ```
 python3 main.py
 ```  
-
-## Demo:  
-
-
-
-https://github.com/Debang5hu/OIBSIP/assets/114200360/cc3a8583-cc21-4624-ae70-7149d88434f1  
-
-
-
-
